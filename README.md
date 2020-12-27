@@ -1,2 +1,12 @@
-# alex
-flag_de | Alle Mitglieder sind verpflichtet sich an das Regelwerk zu halten.   flag_gb |  All members are obliged to keep to the rules.   Last Udate: Added Discord Rules § 8  Rules » https://rusherhub/ruless
+×MCPE Fera Client×
+
+×Feta client last Update 14.12.2020×
+
+×Client Items×
+
+-Zoom
+-Texturen pack im Game wechseln 
+-F5 Taste
+-Discord Fearservice
+-MCPE Developer Team
+-D
